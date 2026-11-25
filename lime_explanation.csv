@@ -1,0 +1,6 @@
+Feature Condition,LIME Weight
+checking_status <= 0.00,0.12588219194642927
+2.00 < credit_history <= 4.00,-0.072732244920039
+savings_status <= 0.00,0.07202404087284145
+employment <= 2.00,0.049304727960992036
+3.00 < installment_commitment <= 4.00,0.03954495145705334
